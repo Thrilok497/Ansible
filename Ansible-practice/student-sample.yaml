@@ -1,0 +1,20 @@
+---
+- name: Thrilok
+  age: 25
+  job: Software
+  addresses: 
+    - doorNo: 2-135
+      street: Indira nagar
+      pin: 523225
+      state: Andhra Pradesh
+      type: present
+    - doorNo: 2-134
+      street: Indira nagar
+      pin: 523225
+      state: Telangana
+      type: permanent
+  skills:
+    - java
+    - python
+    - nodejs
+
