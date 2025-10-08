@@ -1,6 +1,6 @@
 ---
   - name: "variable in ansible"
-    hosts: all
+    hosts: [frontend]
     vars: 
       COURSE: Ansible
       DURATION: 10hrs
