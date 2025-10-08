@@ -1,5 +1,5 @@
 ---
-  - name: "variable in ansible"
+  - name: "play level variables"
     hosts: [frontend]
     vars: 
       COURSE: Ansible
